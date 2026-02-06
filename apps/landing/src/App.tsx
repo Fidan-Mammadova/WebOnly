@@ -718,7 +718,7 @@ export default function App() {
                     return (
                       <article
                         key={index}
-                        className={`flex-shrink-0 snap-start  bg-[#f7f4ec] p-6 shadow-sm border border-[#060010]/5 border-l-4 border-l-[#EDE3C9] transition-all duration-300 ${
+                        className={`flex-shrink-0 snap-start  bg-[#f3efe6] p-6 shadow-sm border border-[#060010]/5 border-l-4 border-l-[#EDE3C9] transition-all duration-300 ${
                           isCenter
                             ? "w-[min(100%,580px)] md:w-[580px] min-h-[200px]"
                             : "w-[min(100%,420px)] md:w-[480px]"
